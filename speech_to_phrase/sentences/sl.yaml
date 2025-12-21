@@ -72,7 +72,7 @@ data:
     domains:
       - "cover"
 
-  locks
+  # locks
   - sentences:
       - "(zakleni|odkleni)  {name}"
       - "je  {name} ((zaklenjen|zaklenjena)|(odklenjen|odklenjena))"
